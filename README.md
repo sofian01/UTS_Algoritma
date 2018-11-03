@@ -1,5 +1,7 @@
 # UTS_Algoritma
 
+soal 1
+
 A 
 
 
@@ -36,3 +38,7 @@ Hasil ss bag2
 
 ![hasil soal1 bag b](https://user-images.githubusercontent.com/44091204/47949125-36970c00-df70-11e8-805c-08d3b5338381.jpg)
 
+
+soal 2
+ 
+![hasil soal2](https://user-images.githubusercontent.com/44091204/47949233-03ee1300-df72-11e8-82ba-b75fbd9a4301.jpg)
